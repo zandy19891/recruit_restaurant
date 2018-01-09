@@ -1,0 +1,4 @@
+Ungitted data:
+original data at /data
+their zips at /zip
+Weather data at /Weather_info
